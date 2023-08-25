@@ -28,6 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
+https://github.com/Ciro-TI-System/Ticket-Generator/assets/78507494/2b316d40-d58f-44f3-91f4-5894da309266
+
 <br>
 
 ## 🎨 Layout
