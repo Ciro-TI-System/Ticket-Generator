@@ -9,7 +9,7 @@ Gerador de Ticket
 <br>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%">
+  <img src=".github/preview.png" width="70%">
 </p>
 
 <br>
